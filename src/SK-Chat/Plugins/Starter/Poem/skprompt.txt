@@ -1,0 +1,7 @@
+Write a short poem with 3 sentences based on the provided input.
+
+[INPUT]
+{{$input}}
+[END INPUT]
+
+Response:
